@@ -1,0 +1,155 @@
+{
+  "language": {
+    "id": "fr_FR",
+    "name": "Français"
+  },
+  "mainmenu": {
+    "title": "Bardancer",
+    "play": "Jouer",
+    "controls": "Contrôles",
+    "settings": "Paramètres",
+    "quit": "Quitter"
+  },
+  "controls": {
+    "title": "COMMANDES DU JEU",
+    "keyboard": "Clavier & Souris",
+    "gamepad": "Manette (Gamepad)",
+    "action_header": "Action",
+    "move": "Se déplacer",
+    "interact": "Interagir / Parler",
+    "attack": "Attaquer (Donjon)",
+    "inventory": "Inventaire",
+    "pause": "Pause / Options",
+    "close": "Fermer",
+    "kbd_move": "WASD / Flèches",
+    "pad_move": "Stick Gauche / D-Pad",
+    "kbd_interact": "Espace / Touche E",
+    "pad_interact": "Bouton A",
+    "kbd_attack": "Foncer sur l'ennemi",
+    "pad_attack": "Foncer sur l'ennemi",
+    "kbd_inventory": "Touche TAB",
+    "pad_inventory": "Gâchette L1 / LB",
+    "kbd_pause": "Touche Échap",
+    "pad_pause": "Bouton Start"
+  },
+  "credits": {
+    "title": "Bardancer",
+    "project_manager": {
+      "label": "Chef de Projet :",
+      "azrotho": "Azrotho"
+    },
+    "developers": {
+      "label": "Développeurs :",
+      "azrotho": "Azrotho"
+    },
+    "music": {
+      "label": "Musiques :",
+      "fishtred": "Fishtred"
+    },
+    "original_project": {
+      "label": "Projet original Bardancer :",
+      "robix_76": "Robix_76",
+      "nokta": "Nokta",
+      "progz": "Prog 'Z",
+      "drecland": "Drecland"
+    },
+    "illustration": {
+      "label": "Illustrations :",
+      "goldi": "Goldi"
+    },
+    "pixel_art": {
+      "label": "Pixel Art :",
+      "lu": "Lu'"
+    },
+    "thanks": "Merci d'avoir joué !"
+  },
+  "options": {
+    "title": "Options",
+    "performance": "Performance",
+    "vsync": "Synchronisation verticale (VSync)",
+    "vsync_short": "VSync",
+    "fpslimit": "Limite FPS",
+    "display": {
+      "text": "Mode d'affichage",
+      "windowed": "Fenêtré",
+      "fullscreen": "Plein écran"
+    },
+    "audio": "Audio",
+    "volume": {
+      "master": "Volume principal",
+      "music": "Volume musique",
+      "sfx": "Volume effets sonores"
+    },
+    "language": {
+      "text": "Langue",
+      "select": "Choisir la langue"
+    },
+    "back": "Retour",
+    "apply": "Appliquer",
+    "reset": "Réinitialiser",
+    "fps": {
+      "unlimited": "Illimité",
+      "monitor": "Fréquence du moniteur"
+    }
+  },
+  "dialogue": {
+    "common": {
+      "speaker": {
+        "bard": "Barde",
+        "system": "Système"
+      },
+      "back_to_hub": "Retour au hub de test"
+    },
+    "test_skin": {
+      "speaker": {
+        "system": "System"
+      },
+      "line1": "Ceci est un dialogue de test pour le skin personnalisé !",
+      "choice1": "Quitter"
+    },
+    "dev": {
+      "hello_world": "Bonjour, monde !",
+      "test_2": "Ceci est un <color:CC2F10>test de dialogue.</color:CC2F10> Vous pouvez changer le fond,\n les sprites et l'opacité du fond.",
+      "test_3": "Vous pouvez changer le fond et les sprites.",
+      "test_choix_1": "Allons au Test 2",
+      "test_choix_2": "Allons au Test",
+      "test_choix_3": "Choix 3"
+    },
+    "test": {
+      "hello": "Bienvenue dans le test."
+    },
+    "test2": {
+      "hello": "Bienvenue dans le test 2."
+    },
+    "finalLevelTest": {
+      "hello": "Test final."
+    }
+  },
+  "items": {
+    "heal_potion": {
+      "name": "Potion de Soin",
+      "description": "[DEBUG]Restaure 30 PV à l'utilisation."
+    },
+    "coin": {
+      "name": "Pièce",
+      "description": "[DEBUG]Une pièce brillante. Peut-être utile un jour."
+    },
+    "rock": {
+      "name": "Rocher à lancer",
+      "description": "[DEBUG]Un rocher lourd. Peut être lancé sur les ennemis."
+    },
+    "inventory": {
+      "title": "Inventaire",
+      "use": "Utiliser",
+      "throw": "Lancer",
+      "drop": "Jeter",
+      "full": "L'inventaire est plein !",
+      "coins": "Pièces : ",
+      "choose_action": "Choisir action :",
+      "empty": "- Inventaire vide -",
+      "no_item": "Aucun objet à inspecter.",
+      "select_action_prompt": "[A / ENTRÉE] Choisir Action",
+      "cancel_prompt": "[B / ECHAP] Annuler"
+    }
+  }
+}

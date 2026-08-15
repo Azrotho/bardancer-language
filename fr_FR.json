@@ -116,7 +116,7 @@
       "test_choix_3": "Choix 3"
     },
     "test": {
-      "hello": "Bienvenue dans le test."
+      "hello": "<color:CC2F10>Bienvenue dans le test.</color:CC2F10>"
     },
     "test2": {
       "hello": "Bienvenue dans le test 2."

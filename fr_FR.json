@@ -102,7 +102,7 @@
     },
     "test_skin": {
       "speaker": {
-        "system": "System"
+        "system": "Système"
       },
       "line1": "Ceci est un dialogue de test pour le skin personnalisé !",
       "choice1": "Quitter"
@@ -116,7 +116,7 @@
       "test_choix_3": "Choix 3"
     },
     "test": {
-      "hello": "Bienvenue dans le test."
+      "hello": "<color:CC2F10>Bienvenue dans le test.</color:CC2F10>"
     },
     "test2": {
       "hello": "Bienvenue dans le test 2."
@@ -150,6 +150,57 @@
       "no_item": "Aucun objet à inspecter.",
       "select_action_prompt": "[A / ENTRÉE] Choisir Action",
       "cancel_prompt": "[B / ECHAP] Annuler"
+    }
+  },
+  "companion": {
+    "title": "SÉLECTION DU COMPAGNON",
+    "active_badge": "ACTIF",
+    "select_button": "SÉLECTIONNER",
+    "already_selected": "ACTIF",
+    "combat_style_prefix": "Style de combat : ",
+    "skills_prefix": "Compétences :",
+    "no_skills": "Aucune compétence spéciale.",
+    "controls_hint": "[Q / D / Stick] Naviguer    [A / Entrée] Choisir    [B / Échap] Retour",
+    "back": "Retour",
+    "none": {
+      "name": "Aucun",
+      "description": "Voyagez en solitaire sans compagnon à vos côtés."
+    },
+    "mage": {
+      "name": "Mage",
+      "description": "Maîtrise la magie élémentaire et attaque à distance pour tuer les ennemis."
+    },
+    "pistolero": {
+      "name": "Pistolero",
+      "description": "Tireuse d'élite maniant les pistolets pour éliminer les ennemis de loin."
+    }
+  },
+  "combat_style": {
+    "none": {
+      "name": "Aucun"
+    },
+    "magic": {
+      "name": "Magie"
+    },
+    "gun": {
+      "name": "Armes à feu"
+    }
+  },
+  "skill": {
+    "none": {
+      "name": "Aucun"
+    },
+    "fireball": {
+      "name": "Boule de feu"
+    },
+    "ice_wall": {
+      "name": "Mur de glace"
+    },
+    "zaap": {
+      "name": "Zaap"
+    },
+    "wind": {
+      "name": "Vent"
     }
   }
 }

@@ -150,5 +150,56 @@
       "select_action_prompt": "[A / ENTER] Choose Action",
       "cancel_prompt": "[B / ESC] Cancel"
     }
+  },
+  "companion": {
+    "title": "COMPANION SELECTION",
+    "active_badge": "ACTIVE",
+    "select_button": "SELECT",
+    "already_selected": "ACTIVE",
+    "combat_style_prefix": "Combat Style: ",
+    "skills_prefix": "Skills:",
+    "no_skills": "No special skills.",
+    "controls_hint": "[Q / D / Stick] Navigate    [A / Enter] Select    [B / Esc] Back",
+    "back": "Back",
+    "none": {
+      "name": "None",
+      "description": "Travel alone without a companion by your side."
+    },
+    "mage": {
+      "name": "Mage",
+      "description": "Masters elemental magic and attacks from a distance to kill enemies."
+    },
+    "pistolero": {
+      "name": "Gunslinger",
+      "description": "Elite sharpshooter wielding pistols to take down enemies from afar."
+    }
+  },
+  "combat_style": {
+    "none": {
+      "name": "None"
+    },
+    "magic": {
+      "name": "Magic"
+    },
+    "gun": {
+      "name": "Firearms"
+    }
+  },
+  "skill": {
+    "none": {
+      "name": "None"
+    },
+    "fireball": {
+      "name": "Fireball"
+    },
+    "ice_wall": {
+      "name": "Ice Wall"
+    },
+    "zaap": {
+      "name": "Zaap"
+    },
+    "wind": {
+      "name": "Wind"
+    }
   }
 }

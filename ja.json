@@ -4,6 +4,13 @@
         "name": "日本語"
     },
     "mainmenu": {
-        "title": "Bardancer"
+        "title": "Bardancer",
+        "settings": "設定",
+        "quit": "修了"
+    },
+    "controls": {
+        "gamepad": "コントローラー",
+        "inventory": "インベントリ",
+        "close": "閉じる"
     }
 }

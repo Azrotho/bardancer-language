@@ -150,6 +150,9 @@
             "no_item": "No item to inspect.",
             "select_action_prompt": "[A / ENTER] Choose Action",
             "cancel_prompt": "[B / ESC] Cancel"
+        },
+        "mana_potion": {
+            "name": "Mana Potion"
         }
     },
     "companion": {

@@ -130,6 +130,10 @@
       "name": "Potion de Soin",
       "description": "[DEBUG]Restaure 30 PV à l'utilisation."
     },
+    "mana_potion": {
+    	"name": "Potion de Mana",
+    	"description": "[DEBUG]Restaure 30 Mana à l'utilisation."
+    }
     "coin": {
       "name": "Pièce",
       "description": "[DEBUG]Une pièce brillante. Peut-être utile un jour."

@@ -1,205 +1,206 @@
 {
-  "language": {
-    "id": "en_US",
-    "name": "English (US)"
-  },
-  "mainmenu": {
-    "title": "Bardancer",
-    "play": "Play",
-    "controls": "Controls",
-    "settings": "Settings",
-    "quit": "Quit"
-  },
-  "controls": {
-    "title": "GAME CONTROLS",
-    "keyboard": "Keyboard & Mouse",
-    "gamepad": "Gamepad / Controller",
-    "action_header": "Action",
-    "move": "Move",
-    "interact": "Interact / Talk",
-    "attack": "Attack (Dungeon)",
-    "inventory": "Inventory",
-    "pause": "Pause / Options",
-    "close": "Close",
-    "kbd_move": "WASD / Arrows",
-    "pad_move": "Left Stick / D-Pad",
-    "kbd_interact": "Space / E Key",
-    "pad_interact": "A Button",
-    "kbd_attack": "Bump into enemy",
-    "pad_attack": "Bump into enemy",
-    "kbd_inventory": "TAB Key",
-    "pad_inventory": "L1 / LB Bumper",
-    "kbd_pause": "ESC Key",
-    "pad_pause": "Start Button"
-  },
-  "credits": {
-    "title": "Bardancer",
-    "project_manager": {
-      "label": "Project Lead:",
-      "azrotho": "Azrotho"
-    },
-    "developers": {
-      "label": "Developers:",
-      "azrotho": "Azrotho"
-    },
-    "music": {
-      "label": "Music:",
-      "fishtred": "Fishtred"
-    },
-    "original_project": {
-      "label": "Original Bardancer Project:",
-      "robix_76": "Robix_76",
-      "nokta": "Nokta",
-      "progz": "Prog 'Z",
-      "drecland": "Drecland"
-    },
-    "illustration": {
-      "label": "Illustrations:",
-      "goldi": "Goldi"
-    },
-    "pixel_art": {
-      "label": "Pixel Art :",
-      "lu": "Lu'"
-    },
-    "thanks": "Thanks for playing!"
-  },
-  "options": {
-    "title": "Options",
-    "performance": "Performance",
-    "vsync": "Vertical Sync (VSync)",
-    "fpslimit": "FPS Limit",
-    "display": {
-      "text": "Display Mode",
-      "windowed": "Windowed",
-      "fullscreen": "Fullscreen"
-    },
-    "audio": "Audio",
-    "volume": {
-      "master": "Master Volume",
-      "music": "Music Volume",
-      "sfx": "Sound Effects Volume"
-    },
     "language": {
-      "text": "Language",
-      "select": "Select Language"
+        "id": "en_US",
+        "name": "English (US)"
     },
-    "back": "Back",
-    "apply": "Apply",
-    "reset": "Reset to Defaults",
-    "fps": {
-      "unlimited": "Unlimited",
-      "monitor": "Monitor Refresh Rate"
+    "mainmenu": {
+        "title": "Bardancer",
+        "play": "Play",
+        "controls": "Controls",
+        "settings": "Settings",
+        "quit": "Quit"
+    },
+    "controls": {
+        "title": "GAME CONTROLS",
+        "keyboard": "Keyboard & Mouse",
+        "gamepad": "Gamepad / Controller",
+        "action_header": "Action",
+        "move": "Move",
+        "interact": "Interact / Talk",
+        "attack": "Attack (Dungeon)",
+        "inventory": "Inventory",
+        "pause": "Pause / Options",
+        "close": "Close",
+        "kbd_move": "WASD / Arrows",
+        "pad_move": "Left Stick / D-Pad",
+        "kbd_interact": "Space / E Key",
+        "pad_interact": "A Button",
+        "kbd_attack": "Bump into enemy",
+        "pad_attack": "Bump into enemy",
+        "kbd_inventory": "TAB Key",
+        "pad_inventory": "L1 / LB Bumper",
+        "kbd_pause": "ESC Key",
+        "pad_pause": "Start Button"
+    },
+    "credits": {
+        "title": "Bardancer",
+        "project_manager": {
+            "label": "Project Lead:",
+            "azrotho": "Azrotho"
+        },
+        "developers": {
+            "label": "Developers:",
+            "azrotho": "Azrotho"
+        },
+        "music": {
+            "label": "Music:",
+            "fishtred": "Fishtred"
+        },
+        "original_project": {
+            "label": "Original Bardancer Project:",
+            "robix_76": "Robix_76",
+            "nokta": "Nokta",
+            "progz": "Prog 'Z",
+            "drecland": "Drecland"
+        },
+        "illustration": {
+            "label": "Illustrations:",
+            "goldi": "Goldi"
+        },
+        "pixel_art": {
+            "label": "Pixel Art :",
+            "lu": "Lu'"
+        },
+        "thanks": "Thanks for playing!"
+    },
+    "options": {
+        "title": "Options",
+        "performance": "Performance",
+        "vsync": "Vertical Sync (VSync)",
+        "fpslimit": "FPS Limit",
+        "display": {
+            "text": "Display Mode",
+            "windowed": "Windowed",
+            "fullscreen": "Fullscreen"
+        },
+        "audio": "Audio",
+        "volume": {
+            "master": "Master Volume",
+            "music": "Music Volume",
+            "sfx": "Sound Effects Volume"
+        },
+        "language": {
+            "text": "Language",
+            "select": "Select Language"
+        },
+        "back": "Back",
+        "apply": "Apply",
+        "reset": "Reset to Defaults",
+        "fps": {
+            "unlimited": "Unlimited",
+            "monitor": "Monitor Refresh Rate"
+        },
+        "vsync_short": "Vsync"
+    },
+    "dialogue": {
+        "common": {
+            "speaker": {
+                "bard": "Bard",
+                "system": "System"
+            },
+            "back_to_hub": "Back to test hub"
+        },
+        "test_skin": {
+            "speaker": {
+                "system": "System"
+            },
+            "line1": "This is a test dialogue for the custom skin!",
+            "choice1": "Quit"
+        },
+        "dev": {
+            "hello_world": "Hello, world!",
+            "test_2": "This is a <color:CC2F10>dialogue test.</color:CC2F10> You can change the background,\n the sprites and the background opacity.",
+            "test_3": "You can change the background and the sprites.",
+            "test_choix_1": "Go to Test 2",
+            "test_choix_2": "Go to Test",
+            "test_choix_3": "Choice 3"
+        },
+        "test": {
+            "hello": "<color:CC2F10>Welcome to test.</color:CC2F10>"
+        },
+        "test2": {
+            "hello": "Welcome to test 2."
+        },
+        "finalLevelTest": {
+            "hello": "Final test."
+        }
+    },
+    "items": {
+        "heal_potion": {
+            "name": "Healing Potion",
+            "description": "[DEBUG]Restores 30 HP when used."
+        },
+        "coin": {
+            "name": "Coin",
+            "description": "[DEBUG]A shiny coin. Maybe useful someday."
+        },
+        "rock": {
+            "name": "Throwing Rock",
+            "description": "[DEBUG]A heavy rock. Can be thrown at enemies."
+        },
+        "inventory": {
+            "title": "Inventory",
+            "use": "Use",
+            "throw": "Throw",
+            "drop": "Drop",
+            "full": "Inventory is full!",
+            "coins": "Coins: ",
+            "choose_action": "Choose action:",
+            "empty": "- Empty inventory -",
+            "no_item": "No item to inspect.",
+            "select_action_prompt": "[A / ENTER] Choose Action",
+            "cancel_prompt": "[B / ESC] Cancel"
+        }
+    },
+    "companion": {
+        "title": "COMPANION SELECTION",
+        "active_badge": "ACTIVE",
+        "select_button": "SELECT",
+        "already_selected": "ACTIVE",
+        "combat_style_prefix": "Combat Style: ",
+        "skills_prefix": "Skills:",
+        "no_skills": "No special skills.",
+        "controls_hint": "[Q / D / Stick] Navigate    [A / Enter] Select    [B / Esc] Back",
+        "back": "Back",
+        "none": {
+            "name": "None",
+            "description": "Travel alone without a companion by your side."
+        },
+        "mage": {
+            "name": "Mage",
+            "description": "Masters elemental magic and attacks from a distance to kill enemies."
+        },
+        "pistolero": {
+            "name": "Gunslinger",
+            "description": "Elite sharpshooter wielding pistols to take down enemies from afar."
+        }
+    },
+    "combat_style": {
+        "none": {
+            "name": "None"
+        },
+        "magic": {
+            "name": "Magic"
+        },
+        "gun": {
+            "name": "Firearms"
+        }
+    },
+    "skill": {
+        "none": {
+            "name": "None"
+        },
+        "fireball": {
+            "name": "Fireball"
+        },
+        "ice_wall": {
+            "name": "Ice Wall"
+        },
+        "zaap": {
+            "name": "Zaap"
+        },
+        "wind": {
+            "name": "Wind"
+        }
     }
-  },
-  "dialogue": {
-    "common": {
-      "speaker": {
-        "bard": "Bard",
-        "system": "System"
-      },
-      "back_to_hub": "Back to test hub"
-    },
-    "test_skin": {
-      "speaker": {
-        "system": "System"
-      },
-      "line1": "This is a test dialogue for the custom skin!",
-      "choice1": "Quit"
-    },
-    "dev": {
-      "hello_world": "Hello, world!",
-      "test_2": "This is a <color:CC2F10>dialogue test.</color:CC2F10> You can change the background,\n the sprites and the background opacity.",
-      "test_3": "You can change the background and the sprites.",
-      "test_choix_1": "Go to Test 2",
-      "test_choix_2": "Go to Test",
-      "test_choix_3": "Choice 3"
-    },
-    "test": {
-      "hello": "Welcome to test."
-    },
-    "test2": {
-      "hello": "Welcome to test 2."
-    },
-    "finalLevelTest": {
-      "hello": "Final test."
-    }
-  },
-  "items": {
-    "heal_potion": {
-      "name": "Healing Potion",
-      "description": "[DEBUG]Restores 30 HP when used."
-    },
-    "coin": {
-      "name": "Coin",
-      "description": "[DEBUG]A shiny coin. Maybe useful someday."
-    },
-    "rock": {
-      "name": "Throwing Rock",
-      "description": "[DEBUG]A heavy rock. Can be thrown at enemies."
-    },
-    "inventory": {
-      "title": "Inventory",
-      "use": "Use",
-      "throw": "Throw",
-      "drop": "Drop",
-      "full": "Inventory is full!",
-      "coins": "Coins: ",
-      "choose_action": "Choose action:",
-      "empty": "- Empty inventory -",
-      "no_item": "No item to inspect.",
-      "select_action_prompt": "[A / ENTER] Choose Action",
-      "cancel_prompt": "[B / ESC] Cancel"
-    }
-  },
-  "companion": {
-    "title": "COMPANION SELECTION",
-    "active_badge": "ACTIVE",
-    "select_button": "SELECT",
-    "already_selected": "ACTIVE",
-    "combat_style_prefix": "Combat Style: ",
-    "skills_prefix": "Skills:",
-    "no_skills": "No special skills.",
-    "controls_hint": "[Q / D / Stick] Navigate    [A / Enter] Select    [B / Esc] Back",
-    "back": "Back",
-    "none": {
-      "name": "None",
-      "description": "Travel alone without a companion by your side."
-    },
-    "mage": {
-      "name": "Mage",
-      "description": "Masters elemental magic and attacks from a distance to kill enemies."
-    },
-    "pistolero": {
-      "name": "Gunslinger",
-      "description": "Elite sharpshooter wielding pistols to take down enemies from afar."
-    }
-  },
-  "combat_style": {
-    "none": {
-      "name": "None"
-    },
-    "magic": {
-      "name": "Magic"
-    },
-    "gun": {
-      "name": "Firearms"
-    }
-  },
-  "skill": {
-    "none": {
-      "name": "None"
-    },
-    "fireball": {
-      "name": "Fireball"
-    },
-    "ice_wall": {
-      "name": "Ice Wall"
-    },
-    "zaap": {
-      "name": "Zaap"
-    },
-    "wind": {
-      "name": "Wind"
-    }
-  }
 }

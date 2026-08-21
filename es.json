@@ -1,1 +1,9 @@
-{}
+{
+    "language": {
+        "id": "es",
+        "name": "Español"
+    },
+    "mainmenu": {
+        "title": "Bardancer"
+    }
+}

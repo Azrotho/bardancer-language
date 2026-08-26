@@ -152,7 +152,8 @@
             "cancel_prompt": "[B / ESC] Cancel"
         },
         "mana_potion": {
-            "name": "Mana Potion"
+            "name": "Mana Potion",
+            "description": "[DEBUG]Restores 30 Mana when used."
         }
     },
     "companion": {
@@ -205,5 +206,10 @@
         "wind": {
             "name": "Wind"
         }
+    },
+    "map": {
+        "enter_button": "ENTER THE DUNGEON",
+        "locked": "???",
+        "back": "Back"
     }
 }

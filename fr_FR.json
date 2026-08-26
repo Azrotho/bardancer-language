@@ -206,5 +206,20 @@
     "wind": {
       "name": "Vent"
     }
+  },
+  "dungeon": {
+    "name": {
+      "dungeon1": "La Caverne aux Slime"
+    },
+    "description": {
+      "dungeon1": "Un réseau de grottes souterrain humide grouillant de slimes\net d'autres créatures terrifiantes."
+    }
+  },
+  "map": {
+    "title": "DESTINATIONS",
+    "enter_button": "ENTRER DANS LE DONJON",
+    "locked": "???",
+    "locked_desc": "Ce donjon n'a pas encore été découvert.",
+    "back": "Retour"
   }
 }

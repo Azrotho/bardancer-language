@@ -210,6 +210,13 @@
     "map": {
         "enter_button": "ENTER THE DUNGEON",
         "locked": "???",
-        "back": "Back"
+        "back": "Back",
+        "title": "DESTINATIONS",
+        "locked_desc": "This dungeon has not been discovered."
+    },
+    "dungeon": {
+        "name": {
+            "dungeon1": "The Slime Cavern"
+        }
     }
 }

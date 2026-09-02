@@ -4,6 +4,7 @@
         "name": "Deutsch"
     },
     "mainmenu": {
-        "title": "Bardancer"
+        "title": "Bardancer",
+        "play": "Spielen"
     }
 }

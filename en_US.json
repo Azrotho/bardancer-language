@@ -217,6 +217,9 @@
     "dungeon": {
         "name": {
             "dungeon1": "The Slime Cavern"
+        },
+        "description": {
+            "dungeon1": "An underground network of wet caves swarming with slimes\nand other terrifying monsters."
         }
     }
 }

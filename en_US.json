@@ -109,7 +109,7 @@
         },
         "dev": {
             "hello_world": "Hello, world!",
-            "test_2": "This is a <color:CC2F10>dialogue test.</color:CC2F10> You can change the background,\n the sprites and the background opacity.",
+            "test_2": "This is a <color:CC2F10>dialogue test.</color:CC2F10> You can change the background,\nthe sprites and the background opacity.",
             "test_3": "You can change the background and the sprites.",
             "test_choix_1": "Go to Test 2",
             "test_choix_2": "Go to Test",
